@@ -1,0 +1,18 @@
+.blue-div{background-color:violet;}
+.purple-div{background-color: blueviolet;}
+
+.blue-div {
+    background:violet;
+    height:10vh;
+    width:10vw;
+    }
+    
+    .blue-div {
+    width:100%;
+    background:pink;
+    display: flex;
+    justify-content: center;
+    }
+
+    
+        
